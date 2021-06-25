@@ -2,4 +2,5 @@
 
 members = [
     "ch01_hello_world",
+    "ch14_generics"
 ]
