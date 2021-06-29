@@ -3,5 +3,6 @@
 members = [
     "ch01_hello_world",
     "ch13_attributes",
-    "ch14_generics"
+    "ch14_generics",
+    "ch15_scoping_rules"
 ]
